@@ -1,1 +1,1 @@
-# Machinelearning_projects
+Credit card fraud analysis using logistic regression is a project focused on predicting fraudulent credit card transactions using a logistic regression model. Logistic regression is a type of supervised learning algorithm used to predict the probability of a binary outcome (in this case, whether a credit card transaction is fraudulent or not) based on input features.
